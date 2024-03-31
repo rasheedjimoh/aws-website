@@ -4,6 +4,9 @@
 
 In today's digital landscape, establishing a strong online presence is imperative for businesses and individuals alike. A robust web hosting infrastructure not only enhances accessibility but also ensures reliability and security for visitors. Leveraging AWS services such as S3, Route 53, Certificate Manager, and CloudFront offers a comprehensive solution to address these needs efficiently.
 
+![image](https://github.com/rasheedjimoh/aws-website/assets/157264080/2cc078a9-c82f-46dc-8461-28940def0b9b)
+
+
 **Technology Stack:**
 
 1. **S3 (Simple Storage Service):** S3 provides scalable object storage, allowing users to store and retrieve data from anywhere on the web. It is ideal for hosting static website content, including HTML files, images, videos, and more. By utilizing S3 buckets, we can securely store website pages and assets, ensuring fast and reliable access for visitors.
